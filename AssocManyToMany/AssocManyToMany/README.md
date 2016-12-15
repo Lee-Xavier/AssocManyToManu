@@ -1,3 +1,1 @@
-﻿Project information
-
-(for the programmer - replace this with useful information)
+(NEW) AutoMapper 5.0 Demo 
